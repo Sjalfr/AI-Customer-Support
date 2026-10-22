@@ -1,9 +1,9 @@
 // Přepínač: zatím bez backendu
-const USE_BACKEND = false;
+const USE_BACKEND = true;
 
 // TADY si každý student nastaví svoje údaje (až bude backend):
-const BACKEND_URL = "https://vdf-games-kostak.onrender.com/chat";
-const STUDENT_ID = "Kostak_Ladislav_4A";
+const BACKEND_URL = "https://ai-customer-support-rvyn.onrender.com/chat";
+const STUDENT_ID = "Josef Michalec 4ITE";
 
 const form = document.getElementById("question-form");
 const textarea = document.getElementById("question");
